@@ -3,3 +3,20 @@
     background-image: url("paper.gif");
     
 }
+.navbar{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+header .navbar{
+    padding: 2px 3%;
+    opacity: 1;
+    background-color:	white;
+     
+}
+header li:hover{
+    background-color: whitesmoke;
+    border-radius: 5px;
+    color:  rgb(246 223 235);
+}
